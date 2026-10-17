@@ -13,7 +13,7 @@ description: "code-generated MV by AISZWL — 用纯代码（Canvas 2D / Three.j
 
 配套完整示例（角色卡 + 角色表 + 分镜表）：
 [`examples/fanren-xiuxian-zhuan/`](examples/fanren-xiuxian-zhuan/) —— 以《凡人修仙传》片头曲《不凡》为例，
-含六张皮克斯风 Q 版角色模板图、主角/盟友/反派阵营划分与按歌曲结构编排的分镜表。
+含角色表（阵营划分与视觉规格，角色模板图待补）与按歌曲结构编排的分镜表。
 
 ## 何时用这个技能
 
