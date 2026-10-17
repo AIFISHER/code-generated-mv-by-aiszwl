@@ -15,17 +15,17 @@
 ## 配套示例：《不凡》（《凡人修仙传》片头曲）
 
 [`examples/fanren-xiuxian-zhuan/`](examples/fanren-xiuxian-zhuan/) 给出一套可直接套用的模板素材：
-角色表（主角/盟友/反派阵营与六位角色的视觉规格；皮克斯风 Q 版角色定妆图后续补入）、
+角色表（主角/盟友/反派阵营与六位角色的视觉规格）、六张皮克斯风 Q 版角色定妆图、
 按歌曲真实结构（经词级转写校准，含两段长器乐间奏）编排的分镜表。
 
 | # | 角色 | 阵营 | 模板图 |
 |---|---|---|---|
-| 1 | 韩立（绿袍主角，镜头最多） | 主角 | `01-hanli-protagonist.jpg`（待补） |
-| 2 | 红裙少女 | 主角阵营 | `02-red-dress-ally.jpg`（待补） |
-| 3 | 狐耳少女 | 主角阵营 | `03-fox-girl-ally.jpg`（待补） |
-| 4 | 黑袍法杖反派 | 反派阵营 | `04-black-robe-villain.jpg`（待补） |
-| 5 | 青纱女反派 | 反派阵营 | `05-teal-veil-villain.jpg`（待补） |
-| 6 | 山羊胡反派 | 反派阵营 | `06-goateed-villain.jpg`（待补） |
+| 1 | 韩立（绿袍主角，镜头最多） | 主角 | [IMG_2003.jpeg](examples/fanren-xiuxian-zhuan/characters/IMG_2003.jpeg) |
+| 2 | 红裙少女 | 主角阵营 | [IMG_2004.jpeg](examples/fanren-xiuxian-zhuan/characters/IMG_2004.jpeg) |
+| 3 | 狐耳少女 | 主角阵营 | [IMG_2005.jpeg](examples/fanren-xiuxian-zhuan/characters/IMG_2005.jpeg) |
+| 4 | 黑袍法杖反派 | 反派阵营 | [IMG_2006.jpeg](examples/fanren-xiuxian-zhuan/characters/IMG_2006.jpeg) |
+| 5 | 青纱女反派 | 反派阵营 | [IMG_2007.jpeg](examples/fanren-xiuxian-zhuan/characters/IMG_2007.jpeg) |
+| 6 | 山羊胡反派 | 反派阵营 | [IMG_2008.jpeg](examples/fanren-xiuxian-zhuan/characters/IMG_2008.jpeg) |
 
 ## 仓库结构
 
@@ -35,7 +35,7 @@ references/reproduction-handbook.md     完全复现手册
 examples/fanren-xiuxian-zhuan/
 ├── cast.md                             角色表：阵营、视觉规格、镜头配额
 ├── storyboard.md                       分镜表：按歌曲结构逐段编排
-└── characters/                         角色模板图（待补）
+└── characters/                         六张角色模板图
 ```
 
 ## 使用
